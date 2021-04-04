@@ -1,0 +1,37 @@
+div.form-inline label.col-md-4{
+    justify-content: flex-end;
+}
+.container{
+    height: 100%;
+    align-content: center;
+    background-image: url('https://media.istockphoto.com/photos/light-green-defocused-blurred-motion-abstract-background-picture-id1138288758?k=6&m=1138288758&s=612x612&w=0&h=rwNnAXEgmHzxpeb7SY0A2KVMOQhkBaoml1T6HEaW7Fs=');
+    background-size:cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    font-family: 'Numans', sans-serif;
+    }
+    .card{
+        height: 750px;
+        width: 600px;
+        background-color: rgba(230, 230, 230, 0.438) !important;
+        }
+        
+    button{
+        background-color:#469799; 
+        border-color: #469799;
+        
+    }
+
+    img.avatar {
+        display: flex;
+        width: 100%;
+        border-radius: 50%;
+        justify-content: center;
+
+      }
+      .btn-block:hover{
+        color: black;
+        background-color: rgb(0, 126, 98);
+        }
+       
+            
